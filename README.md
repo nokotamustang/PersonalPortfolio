@@ -65,8 +65,8 @@ My contributions to the Altered AI project have been in two main areas: the bill
 
 1. I designed and built a customer management portal and payment system to help the company scale-up their product service (SaaS). I rapidly built up this project from scratch in **React** with **Redux** for state management, within a **Typescript** environment running on **Node.js**. The payment system is connected to Chargebee, a third-party system that works with **Stripe**, which is in turn connected to third party payment gateways. I have also been interacting with endpoints and **AWS Lambda** code hosted with **Amazon Web Services** working with a great backend engineer to build this complex system that handles an account database with quota management and an automated third-party payment transaction system.
 
-![Altered billing 2](./img/al_2.png)
-![Altered billing 3](./img/al_3.png)
+![Altered billing 2](./img/al_2.PNG)
+![Altered billing 3](./img/al_3.PNG)
 
 The billing system that I built for Altered AI is a complex system that handles an account database with quota management and an automated third-party payment transaction system. The system is built using **React**, **Redux**, and **Node.js**, and is connected to a third-party payment gateway.
 
