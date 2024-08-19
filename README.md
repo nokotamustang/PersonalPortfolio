@@ -1,4 +1,4 @@
-## Celebrating 14 years of Software Engineering and Computer Science
+`Celebrating 14 years of Software Engineering and Computer Science`
 
 As a life long student of Software Engineering and Computer Science, I have been learning and practicing the art of software development for the past 14 years. I have been working on various projects, both personal and professional, and have gained a lot of experience in the field. I have worked with different programming languages, frameworks, and tools, and have developed a deep understanding of the software development process.
 
@@ -6,7 +6,7 @@ In this repository, I have compiled some of my best work from the past 14 years.
 
 Here are some of the projects that I have worked on, most recent first.
 
-### Nokota Mustang - Financial Data and Machine Learning - Freelance - 2024 to ongoing
+## Nokota Mustang - Financial Data and Machine Learning - Freelance - 2024 to ongoing
 
 Currently loving building a Python **Fast API** server running a **MySQL** database of the USA stock market data and other market data, with a **React** / **Node.js** front end.
 
@@ -21,7 +21,7 @@ In addition I have been tracking bankruptcy restructuring in USA public companie
 
 As I progress I will be using machine learning algorithms to predict future stock prices and company performance based on historical data. I will also be using natural language processing to analyze legal documents and find patterns in financial fraud. With some time and a little more personal funding I wil host this on AWS and use the AWS CDK to build a scalable infrastructure.
 
-### Route Konnect - Machine Learning Ops Platform in AWS for Vehicle Identification and Tracking - Senior Machine Learning Engineer - 2023 to 2024
+## Route Konnect - Machine Learning Ops Platform in AWS for Vehicle Identification and Tracking - Senior Machine Learning Engineer - 2023 to 2024
 
 Route Konnect aims to solve legacy problems and plan for the future, town planners, traffic surveyors, and local authorities need rich, joined-up information on how road users move through our cities. Conventional analytics rely on manual counting, which is notoriously slow, inaccurate, and one-dimensional. Technological solutions are more advanced but often suffer from one-size-fits-all approaches.
 The main output is a report on the turning counts, in other words a detailed tally of the categories of vehicles during various blocks of time in the day, and the direction they are moving in for the specific junction. This is a key metric for traffic planning and road safety.
@@ -45,7 +45,7 @@ How I helped:
 
 1. I was inspecting the existing prototype code for the machine learning algorithm, and planning a strategy for improving the classification results and providing code and scientific robustness.
 
-### Altered AI - Machine Learning for Audio Morphing - Senior Software Engineer - 2022 to 2023
+## Altered AI - Machine Learning for Audio Morphing - Senior Software Engineer - 2022 to 2023
 
 Altered AI is a machine learning platform that uses deep learning algorithms to alter audio files. The platform can be used to change the pitch, tempo, and other characteristics of audio files, allowing users to create new and interesting sounds. The platform is built using Python, PyTorch, and runs on AWS.
 
@@ -68,7 +68,7 @@ The billing system that I built for Altered AI is a complex system that handles 
 
 1. On the main app itself I have worked on adding components to the tools, and controls for third party effects wrappers and other tasks such as import/export of raw data from various file formats, and general maintenance and bug fixing. This application is an **Electron** app with a codebase written mostly in **Typescript**, but was ported to a web browser environment.
 
-### Freelance - Pocket Monster Prototype - Game Designer/Developer - 2020 to 2022
+## Freelance - Pocket Monster Prototype - Game Designer/Developer - 2020 to 2022
 
 I attempted making a ‘monster tamer adventure game’ tech demo. The technologies used are **C++19**, Lua**, **OpenGL**, **GLSL** pixel shaders, and a variety of third-party tools for graphic and map design (**Tiled**, **Photoshop\*\*). The goal is a simple code base that requires no additional workload to publish on vastly different target platforms.
 
@@ -82,7 +82,7 @@ Next is the final prototype which included a fully working User Interface, map s
 ![Daemon Team Six 2](./img/dts_4.PNG)
 ![Daemon Team Six 3](./img/dts_5.PNG)
 
-### Holition - Augmented Reality - Senior R&D Computer Engineer - 2018 to 2020
+## Holition - Augmented Reality - Senior R&D Computer Engineer - 2018 to 2020
 
 Holition is a creative agency that specializes in augmented reality and virtual reality experiences. The company works with luxury brands to create interactive and immersive experiences for their customers. My role at Holition was to work on the development of augmented reality applications for beauty and fashion brands. I worked on a range of projects, from beauty simulation tools to virtual try-on experiences.
 
@@ -109,10 +109,10 @@ From first prototype of my work with another Senior Engineer, to the production 
 ![Holition AR Tutorials 1](./img/hol_5.jpg)
 ![Holition AR Tutorials 2](./img/hol_animation.gif)
 ![Holition AR Tutorials 3](./img/hol_animation_2.gif)
-![Holition AR Tutorials 1](./img/hol_8.png)
-![Holition AR Tutorials 3](./img/hol_animation_3.gif)
+![Holition AR Tutorials 4](./img/hol_8.png)
+![Holition AR Tutorials 5](./img/hol_animation_3.gif)
 
-### Freelance - Dark Wish - Game Designer/Developer - 2016 to 2018
+## Freelance - Dark Wish - Game Designer/Developer - 2016 to 2018
 
 My own self-funded game ‘Dark Wish’ was coded with the OpenGL framework. **LÖVE** released on the PC platform Steam in early 2019. The code is primarily written in Lua and C++ using the **LÖVE** API to access the **OpenGL** graphics library and **Simple Direct-Media Layer** library. This work involves game design, planning and prototyping, development, testing, audio engineering, and digital artwork creation.
 
@@ -120,12 +120,12 @@ For this project I mainly follow a Data Oriented Design methodology in this proj
 
 I learned a lot from this experience and hope to fill in the gaps in my knowledge (marketing, business management, strategy) and hopefully overcome these difficulties in my next projects.
 
-![Holition AR Tutorials 1](./img/dw_1.jpg)
-![Holition AR Tutorials 1](./img/dw_2.jpg)
-![Holition AR Tutorials 1](./img/dw_3.jpg)
-![Holition AR Tutorials 1](./img/dw_4.jpg)
+![Dark Wish 1](./img/dw_1.jpg)
+![Dark Wish 2](./img/dw_2.jpg)
+![Dark Wish 3](./img/dw_3.jpg)
+![Dark Wish 4](./img/dw_4.jpg)
 
-### Red Bee Media - AR Sports Graphics for Broadcast TV - Software Engineer - 2013 to 2016
+## Red Bee Media - AR Sports Graphics for Broadcast TV - Software Engineer - 2013 to 2016
 
 I worked on the **Piero** project which is software used to generate real time augmented reality video with **Java** and **C++**, using **OpenGL** for 3D graphics creation. The clients would use the software to generate the effects to render to live broadcast like how **After Effects** is used.
 `
@@ -134,35 +134,36 @@ I worked on the **Piero** project which is software used to generate real time a
 As a software engineer, I had to implement new visual effects into the codebase including design, implementation, and testing; maintain and fix bugs; and make changes to the software on client’s requests. I had created many effects to the software, which can be seen on most Sport broadcasts for Tennis, Football, Rugby, etc.
 
 ![Piero 2](./img/piero_2.PNG)
-![Piero 2](./img/piero_3.PNG)
 
 Part of the challenge was working with 3D graphics and video in real-time, which required a deep understanding of computer graphics and video processing; the real-time rendering has to be ready for the broadcast in less than 4 frames to be broadcast ready.
 
+![Piero 3](./img/piero_3.PNG)
+
 We expanded the Piero software to work with **Opta** data, allowing even more use cases with large datasets of sports data. This was a big project that required a lot of work to integrate the data into the software and make it usable for the clients.
 
-![Piero 2](./img/piero_4.PNG)
+![Piero 4](./img/piero_4.PNG)
 
 Another project was integrating the **EA Sports** rendering engine into **Piero**, which allowed for more realistic graphics presentation for the 3D stadium and players models. This was a complex project that required a lot of work to integrate the two systems and make them work together seamlessly.
 
-### Buhler Sortex - PhD Student in Machine Vision - 2009 to 2013
+## Buhler Sortex - PhD Student in Machine Vision - 2009 to 2013
 
 I was commissioned to complete a three-year Machine Vision project for the measurement of granular organic matter in an on-line environment. I have published two research grade papers on this work. The project was originally a prototype that I had written in **MATLAB**, but since the code surpassed all expectations, it was used as the production code in live trials.
 
 The major hurdle was to measure the percentage of broken rice in a stream of rice grains. The system had to be able to measure the size of the grains, the color of the grains, and the shape of the grains. The system had to be able to do this in real-time, as the grains were moving down a conveyor belt at a high speed.
 
-![Sortex PhD Thesis](./img/bs_1.PNG)
+![Sortex PhD Thesis 1](./img/bs_1.PNG)
 
 So first was the task to measure the length of rice in a static image.
 
-![Sortex PhD Thesis](./img/bs_0.PNG)
+![Sortex PhD Thesis 2](./img/bs_0.PNG)
 
 Following with the task to measure the length of rice as it freely moves in a stream.
 
-![Sortex PhD Thesis](./img/bs_2.PNG)
+![Sortex PhD Thesis 3](./img/bs_2.PNG)
 
 The system was able to measure the percentage of broken rice from 25,000 grains in a moving stream within 5 minutes. Evaluation of a series of 12 measurements of 25,000 rice grains each experiment, repeated with two varieties of rice. Observations were made of a mean error of broken rice estimation without correction factor applied is 0.12%, and with correction factor applied is -0.57%.
 
-### Buhler Sortex - Computer Vision for Object Separation of Grains - Contract research Engineer - 2008 to 2009
+## Buhler Sortex - Computer Vision for Object Separation of Grains - Contract research Engineer - 2008 to 2009
 
 I completed a one-year research project on ‘Separation of Touching Objects’ in an image, and then produced a solution to the problem for organic matter such as touching rice grains.
 
@@ -170,28 +171,28 @@ The work contract required deliverables at the end of the year, which included a
 
 I was able to submit this project for my final project at the university, in which I was awarded full marks and won an award for the ‘Digital Imaging Research Centre Prize' for that year.
 
-![Sortex PhD Thesis](./img/bs_os2.PNG)
+![Sortex Object Separation](./img/bs_os2.PNG)
 
-### Buhler Sortex - Computer Vision for Food Optical Sorting - Placement Image Processing Engineer - 2007 to 2008
+## Buhler Sortex - Computer Vision for Food Optical Sorting - Placement Image Processing Engineer - 2007 to 2008
 
 I worked in the research & development department, as an image processing engineer to advance the technology of some of the machines that Buhler Sortex design, build, and sell. My role involved writing software prototypes and technical reports on the feasibility of new image processing solutions. I am co-inventor of a series of EU, US, and World patents.
 
-![Sortex PhD Thesis](./img/bs_os.PNG)
+![Sortex Placement 1](./img/bs_os.PNG)
 
 Roughly, 75% of the role was algorithm design and code implementation and testing within the MATLAB programming language. My main tasks were to help develop rapid prototypes to prove/disprove research concepts and help to analyze their effectiveness to improve the technologies of Sortex's current optical sorting machines. Some examples of the projects I worked on are:
 
 1. The Defect Browser was a prototype tool that could simulate the defect detection that the company used in their high performance machines, with a twist. This tool to simulate a variety of parameters and allow the user to manipulate and view the results in real-time.
 
-![Sortex PhD Thesis](./img/bs_defect_browser.png)
+![Sortex Placement 2](./img/bs_defect_browser.png)
 The horizontal line would represent the defect threshold and the operator could adjust this to see how the machine would react to different levels of defects using real data from the machines.
 
 1. The Feed Quality Measurement tool was a prototype tool that could measure the quality of the feed of the machine. Better quality of the feed would be the grains spread out across the chute, worse quality would be the grains clumped together which meant the air-ejectors would fire and hit 'innocent bystander' grains when a defect was detected.
 
 A variety of measurements were taken to determine the quality of the feed, and the tool would output a score based on these measurements as the 'clumpyness' metric. The following images are example outputs that show the coverage measurement of the frames of rice, an example threshold set of frames, the distribution of grains across the width of the chute, and the final score of the feed quality measurement.
 
-![Sortex PhD FQM](./img/bs_fqm_1.png)
-![Sortex PhD FQM](./img/bs_fqm_2.png)
-![Sortex PhD FQM](./img/bs_fqm_3.png)
-![Sortex PhD FQM](./img/bs_fqm_4.png)
+![Sortex Placement 3](./img/bs_fqm_1.png)
+![Sortex Placement 4](./img/bs_fqm_2.png)
+![Sortex Placement 5](./img/bs_fqm_3.png)
+![Sortex Placement 6](./img/bs_fqm_4.png)
 
 This tool allowed the company's mechanical engineers to build a variety of prototype chute designs to improve the feed quality of the machines. They selected a 'chamfered' design that contains numerous steps down the chute which allows the grains to spread out more evenly across the chute every time they bounce down a step. This increased the productivity of one machine by about 200% in final testing.
