@@ -15,7 +15,7 @@ The data includes market data, company data, and public company stock price data
 ![Nokota Mustang 1](./img/nm_1.PNG)
 ![Nokota Mustang 2](./img/nm_3.PNG)
 
-In addition I have been tracking bankruptcy restructuring in USA public companies. This includes reading and understand legal document in the Federal Court dockets, and using this information to find patterns in financial fraud. This information could be used to predict future bankruptcies and help investors make better decisions, or to detect fraud and open up early avenues to investigate.
+In addition I have been tracking bankruptcy restructuring in North American companies. This includes reading and understand legal document in the Federal Court dockets, and using this information to find patterns in financial fraud. This information could be used to predict future bankruptcies and help investors make better decisions, or to detect fraud and open up early avenues to investigate.
 
 ![Nokota Mustang 3](./img/nm_2.PNG)
 
@@ -51,7 +51,7 @@ Altered AI is a machine learning platform that uses deep learning algorithms to 
 
 ![Altered morphing](./img/al_morph.gif)
 
-The morphing tool in action, which is the main feature of the Altered AI Studio application. Although there are many other features, this is the most popular and widely used tool in the application. I helper to build, for example, the audio tools that modify the mixer and effects.
+The morphing tool in action, which is the main feature of the Altered AI Studio application. Although there are many other features, this is the most popular and widely used tool in the application.
 
 ![Altered billing 1](./img/al_1.PNG)
 
@@ -118,7 +118,7 @@ I created a comparison tool to show the difference between the real makeup (in c
 
 ## Freelance - Dark Wish - Game Designer/Developer - 2016 to 2018
 
-My own self-funded game ‘Dark Wish’ was coded with the OpenGL framework. **LÖVE** released on the PC platform Steam in early 2019. The code is primarily written in Lua and C++ using the **LÖVE** API to access the **OpenGL** graphics library and **Simple Direct-Media Layer** library. This work involves game design, planning and prototyping, development, testing, audio engineering, and digital artwork creation.
+My own self-funded game ‘Dark Wish’ was coded with the OpenGL framework. **LÖVE** released on the **Steam** platform. The code is primarily written in Lua and C++ using the **LÖVE** API to access the **OpenGL** graphics library and **Simple Direct-Media Layer** library. This work involves game design, planning and prototyping, development, testing, audio engineering, and digital artwork creation.
 
 For this project I mainly follow a Data Oriented Design methodology in this project typically used for high data flow systems such as game engines. However, I created my User Interface system with an Object-Oriented design. I have also been more involved with low-level graphics programming such as **GLSL** pixel-shader programming for visual effects.
 
