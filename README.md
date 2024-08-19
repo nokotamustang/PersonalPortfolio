@@ -1,12 +1,8 @@
-# Celebrating 14 years of Software Engineering and Computer Science
-
-## Introduction
+## Celebrating 14 years of Software Engineering and Computer Science
 
 As a life long student of Software Engineering and Computer Science, I have been learning and practicing the art of software development for the past 14 years. I have been working on various projects, both personal and professional, and have gained a lot of experience in the field. I have worked with different programming languages, frameworks, and tools, and have developed a deep understanding of the software development process.
 
 In this repository, I have compiled some of my best work from the past 14 years. These projects showcase my skills and expertise in software engineering and computer science. I hope you find them interesting and useful.
-
-## Projects
 
 Here are some of the projects that I have worked on, most recent first.
 
@@ -41,7 +37,7 @@ Outputs from the Route Konnect platform also include 'desire lines' and 'heat ma
 
 The platform was built in AWS using a range of services, including **S3**, **Lambda**, **API Gateway**, **DynamoDB**, **Batch** and **ECS**, and **SageMaker**. The data is collected from a customer, who uses the online tools to create the project for processing in the system. The data is processed using machine learning algorithms to identify vehicles and track their movements. The platform provides a web-based interface for users to view the data and generate reports.
 
-#### How I helped
+How I helped:
 
 1. This project for data analysis of videos with cross-camera tracking of vehicles and pedestrians is ambitious and technically complex. The First part I worked on uses a variety of Amazon Web Services (AWS) technologies that span across **GPU compute** enabled **EC2** instances; with **Docker** images running via **ECS**; and wrapped inside **AWS Batch** for automated queuing. Everything is designed for scalability, robustness, and the next step was to implement everything in a scripted **AWS CDK** infrastructure. This was built with **Node.js** with **Typescript** for the web apps and **AWS Lambdas**, and **Python3x** for the heavy processing work.
 
@@ -59,7 +55,7 @@ The morphing tool in action, which is the main feature of the Altered AI Studio 
 
 ![Altered billing 1](./img/al_1.PNG)
 
-#### What I built
+What I built:
 
 My contributions to the Altered AI project have been in two main areas: the billing system, and then helping with new features in the web application.
 
@@ -82,17 +78,15 @@ First prototype of the battle system.
 
 Next is the final prototype which included a fully working User Interface, map system for the player to travel around, and a battle system with a variety of monsters to fight against. The game was designed to be a single player experience
 
-![Daemon Team Six Animation](./img/dts_3.gif)
-![Daemon Team Six Animation](./img/dts_4.gif)
-![Daemon Team Six Animation](./img/dts_5.gif)
+![Daemon Team Six 1](./img/dts_3.PNG)
+![Daemon Team Six 2](./img/dts_4.PNG)
+![Daemon Team Six 3](./img/dts_5.PNG)
 
 ### Holition - Augmented Reality - Senior R&D Computer Engineer - 2018 to 2020
 
 Holition is a creative agency that specializes in augmented reality and virtual reality experiences. The company works with luxury brands to create interactive and immersive experiences for their customers. My role at Holition was to work on the development of augmented reality applications for beauty and fashion brands. I worked on a range of projects, from beauty simulation tools to virtual try-on experiences.
 
-#### What I did
-
-My contributions were three large projects in Augmented Reality, as well as project management and supervising juniors.
+My contributions were three large projects in Augmented Reality:
 
 1. The First project was building an **Electron** desktop application to integrate Holition's beauty simulation toolkit with web technologies for the front-end. **Electron** is a Chromium/Node integrated tool that I had helped join the **JavaScript** (**TypeScript**) web logic with the **C++19** backend of the Augmented reality software.
    The Charlotte Tilbury Magic Mirror uses the Holition beauty simulation toolkit to allow customers to try on different makeup looks in real-time. The application uses face tracking and augmented reality to overlay virtual makeup onto the customer's face.
