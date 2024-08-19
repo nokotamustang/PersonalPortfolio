@@ -98,17 +98,21 @@ My contributions were three large projects in Augmented Reality:
 From foundation makeup testing on models, to one simulation of foundation from the renderers, and the simulation accuracy metrics:
 
 ![Holition Foundation 1](./img/hol_6.jpg)
-![Holition Foundation 2](./img/hol_3.png)
+![Holition Foundation 2](./img/hol_3.PNG)
 ![Holition Foundation 3](./img/hol_1.png)
 ![Holition Foundation 4](./img/hol_2.png)
 
 1. Finally, I led a research project to create a concept of AR make-up 'tutorials'. This used face tracking in real-time video combined with animations made in **After Effects**. The technologies are the **C++19** backend for the tracker, **Emscripten** to compile the application into **ASM-JS** for web, and typescript for the front end and tools to project the live 2D animations. This tool for example is used by Burberry for their Virtual Studio.
 
+![Holition AR Tutorials 1](./img/hol_5.jpg)
+
 From first prototype of my work with another Senior Engineer, to the production version as used in Burberry's Virtual Studio:
 
-![Holition AR Tutorials 1](./img/hol_5.jpg)
 ![Holition AR Tutorials 2](./img/hol_animation.gif)
 ![Holition AR Tutorials 3](./img/hol_animation_2.gif)
+
+I created a comparison tool to show the difference between the real makeup (in controlled lighting) to the simulation makeup. This tool was used to help improve the accuracy of the simulation algorithm by providing a quantitative measure of the difference between the two.
+
 ![Holition AR Tutorials 4](./img/hol_8.png)
 ![Holition AR Tutorials 5](./img/hol_animation_3.gif)
 
