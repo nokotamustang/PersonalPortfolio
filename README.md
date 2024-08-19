@@ -16,12 +16,12 @@ Currently loving building a Python **Fast API** server running a **MySQL** datab
 
 The data includes market data, company data, and public company stock price data.
 
-![Nokota Mustang 1](./img/nm_1.png)
-![Nokota Mustang 3](./img/nm_3.png)
+![Nokota Mustang 1](./img/nm_1.PNG)
+![Nokota Mustang 2](./img/nm_3.PNG)
 
 In addition I have been tracking bankruptcy restructuring in USA public companies. This includes reading and understand legal document in the Federal Court dockets, and using this information to find patterns in financial fraud. This information could be used to predict future bankruptcies and help investors make better decisions, or to detect fraud and open up early avenues to investigate.
 
-![Nokota Mustang 2](./img/nm_2.png)
+![Nokota Mustang 3](./img/nm_2.PNG)
 
 As I progress I will be using machine learning algorithms to predict future stock prices and company performance based on historical data. I will also be using natural language processing to analyze legal documents and find patterns in financial fraud. With some time and a little more personal funding I wil host this on AWS and use the AWS CDK to build a scalable infrastructure.
 
@@ -57,7 +57,7 @@ Altered AI is a machine learning platform that uses deep learning algorithms to 
 
 The morphing tool in action, which is the main feature of the Altered AI Studio application. Although there are many other features, this is the most popular and widely used tool in the application. I helper to build, for example, the audio tools that modify the mixer and effects.
 
-![Altered billing](./img/al_1.png)
+![Altered billing 1](./img/al_1.PNG)
 
 #### What I built
 
@@ -65,8 +65,8 @@ My contributions to the Altered AI project have been in two main areas: the bill
 
 1. I designed and built a customer management portal and payment system to help the company scale-up their product service (SaaS). I rapidly built up this project from scratch in **React** with **Redux** for state management, within a **Typescript** environment running on **Node.js**. The payment system is connected to Chargebee, a third-party system that works with **Stripe**, which is in turn connected to third party payment gateways. I have also been interacting with endpoints and **AWS Lambda** code hosted with **Amazon Web Services** working with a great backend engineer to build this complex system that handles an account database with quota management and an automated third-party payment transaction system.
 
-![Altered billing](./img/al_2.png)
-![Altered billing](./img/al_3.png)
+![Altered billing 2](./img/al_2.png)
+![Altered billing 3](./img/al_3.png)
 
 The billing system that I built for Altered AI is a complex system that handles an account database with quota management and an automated third-party payment transaction system. The system is built using **React**, **Redux**, and **Node.js**, and is connected to a third-party payment gateway.
 
@@ -82,9 +82,9 @@ First prototype of the battle system.
 
 Next is the final prototype which included a fully working User Interface, map system for the player to travel around, and a battle system with a variety of monsters to fight against. The game was designed to be a single player experience
 
-![Daemon Team Six Animation](./img/dts_3.png)
-![Daemon Team Six Animation](./img/dts_4.png)
-![Daemon Team Six Animation](./img/dts_5.png)
+![Daemon Team Six Animation](./img/dts_3.gif)
+![Daemon Team Six Animation](./img/dts_4.gif)
+![Daemon Team Six Animation](./img/dts_5.gif)
 
 ### Holition - Augmented Reality - Senior R&D Computer Engineer - 2018 to 2020
 
