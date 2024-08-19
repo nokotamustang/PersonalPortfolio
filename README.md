@@ -134,19 +134,19 @@ I learned a lot from this experience and hope to fill in the gaps in my knowledg
 ### Red Bee Media - AR Sports Graphics for Broadcast TV - Software Engineer - 2013 to 2016
 
 I worked on the **Piero** project which is software used to generate real time augmented reality video with **Java** and **C++**, using **OpenGL** for 3D graphics creation. The clients would use the software to generate the effects to render to live broadcast like how **After Effects** is used.
-
-![Piero 1](./img/piero_1.png)
+`
+![Piero 1](./img/piero_1.PNG)
 
 As a software engineer, I had to implement new visual effects into the codebase including design, implementation, and testing; maintain and fix bugs; and make changes to the software on client’s requests. I had created many effects to the software, which can be seen on most Sport broadcasts for Tennis, Football, Rugby, etc.
 
-![Piero 2](./img/piero_2.png)
-![Piero 2](./img/piero_3.png)
+![Piero 2](./img/piero_2.PNG)
+![Piero 2](./img/piero_3.PNG)
 
 Part of the challenge was working with 3D graphics and video in real-time, which required a deep understanding of computer graphics and video processing; the real-time rendering has to be ready for the broadcast in less than 4 frames to be broadcast ready.
 
 We expanded the Piero software to work with **Opta** data, allowing even more use cases with large datasets of sports data. This was a big project that required a lot of work to integrate the data into the software and make it usable for the clients.
 
-![Piero 2](./img/piero_4.png)
+![Piero 2](./img/piero_4.PNG)
 
 Another project was integrating the **EA Sports** rendering engine into **Piero**, which allowed for more realistic graphics presentation for the 3D stadium and players models. This was a complex project that required a lot of work to integrate the two systems and make them work together seamlessly.
 
@@ -156,15 +156,15 @@ I was commissioned to complete a three-year Machine Vision project for the measu
 
 The major hurdle was to measure the percentage of broken rice in a stream of rice grains. The system had to be able to measure the size of the grains, the color of the grains, and the shape of the grains. The system had to be able to do this in real-time, as the grains were moving down a conveyor belt at a high speed.
 
-![Sortex PhD Thesis](./img/bs_1.png)
+![Sortex PhD Thesis](./img/bs_1.PNG)
 
 So first was the task to measure the length of rice in a static image.
 
-![Sortex PhD Thesis](./img/bs_0.png)
+![Sortex PhD Thesis](./img/bs_0.PNG)
 
 Following with the task to measure the length of rice as it freely moves in a stream.
 
-![Sortex PhD Thesis](./img/bs_2.png)
+![Sortex PhD Thesis](./img/bs_2.PNG)
 
 The system was able to measure the percentage of broken rice from 25,000 grains in a moving stream within 5 minutes. Evaluation of a series of 12 measurements of 25,000 rice grains each experiment, repeated with two varieties of rice. Observations were made of a mean error of broken rice estimation without correction factor applied is 0.12%, and with correction factor applied is -0.57%.
 
@@ -176,13 +176,13 @@ The work contract required deliverables at the end of the year, which included a
 
 I was able to submit this project for my final project at the university, in which I was awarded full marks and won an award for the ‘Digital Imaging Research Centre Prize' for that year.
 
-![Sortex PhD Thesis](./img/bs_os2.png)
+![Sortex PhD Thesis](./img/bs_os2.PNG)
 
 ### Buhler Sortex - Computer Vision for Food Optical Sorting - Placement Image Processing Engineer - 2007 to 2008
 
 I worked in the research & development department, as an image processing engineer to advance the technology of some of the machines that Buhler Sortex design, build, and sell. My role involved writing software prototypes and technical reports on the feasibility of new image processing solutions. I am co-inventor of a series of EU, US, and World patents.
 
-![Sortex PhD Thesis](./img/bs_os.png)
+![Sortex PhD Thesis](./img/bs_os.PNG)
 
 Roughly, 75% of the role was algorithm design and code implementation and testing within the MATLAB programming language. My main tasks were to help develop rapid prototypes to prove/disprove research concepts and help to analyze their effectiveness to improve the technologies of Sortex's current optical sorting machines. Some examples of the projects I worked on are:
 
