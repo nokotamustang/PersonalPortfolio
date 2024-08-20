@@ -115,7 +115,7 @@ I created a comparison tool to show the difference between the real makeup (in c
 
 ## Freelance - Dark Wish - Game Designer/Developer - 2016 to 2018
 
-A game design project that combines my love of video games and my passion for programming.
+A game design project that combines my love of video games and my passion for programming. This project feature making an engine from scratch, using procedural generation for random levels, and a variety of monsters and bosses to fight against. The game is a 2D action-adventure game with a focus on exploration and combat, with a dark fantasy theme and a story-driven narrative.
 
 ![Dark Wish 1](./img/dw_1.jpg)
 
