@@ -37,13 +37,11 @@ Outputs from the Route Konnect platform also include 'desire lines' and 'heat ma
 
 The platform was built in AWS using a range of services, including **S3**, **Lambda**, **API Gateway**, **DynamoDB**, **Batch** and **ECS**, and **SageMaker**. The data is collected from a customer, who uses the online tools to create the project for processing in the system. The data is processed using machine learning algorithms to identify vehicles and track their movements. The platform provides a web-based interface for users to view the data and generate reports.
 
-How I helped:
+This project for data analysis of videos with cross-camera tracking of vehicles and pedestrians is ambitious and technically complex. The First part I worked on uses a variety of Amazon Web Services (AWS) technologies that span across **GPU compute** enabled **EC2** instances; with **Docker** images running via **ECS**; and wrapped inside **AWS Batch** for automated queuing. Everything is designed for scalability, robustness, and the next step was to implement everything in a scripted **AWS CDK** infrastructure. This was built with **Node.js** with **Typescript** for the web apps and **AWS Lambdas**, and **Python3x** for the heavy processing work.
 
-1. This project for data analysis of videos with cross-camera tracking of vehicles and pedestrians is ambitious and technically complex. The First part I worked on uses a variety of Amazon Web Services (AWS) technologies that span across **GPU compute** enabled **EC2** instances; with **Docker** images running via **ECS**; and wrapped inside **AWS Batch** for automated queuing. Everything is designed for scalability, robustness, and the next step was to implement everything in a scripted **AWS CDK** infrastructure. This was built with **Node.js** with **Typescript** for the web apps and **AWS Lambdas**, and **Python3x** for the heavy processing work.
+I worked on building the scalable solution for this product, using **AWS Cloud Formation** with **Cloud Development Kit** (CDK) to build a scripted architecture for the pipeline. I have aimed to utilize unit tests, functional tests, and stack tests to help contain and test the code for the CDK implementation during this phase.
 
-1. I worked on building the scalable solution for this product, using **AWS Cloud Formation** with **Cloud Development Kit** (CDK) to build a scripted architecture for the pipeline. I have aimed to utilize unit tests, functional tests, and stack tests to help contain and test the code for the CDK implementation during this phase.
-
-1. I was inspecting the existing prototype code for the machine learning algorithm, and planning a strategy for improving the classification results and providing code and scientific robustness.
+I was inspecting the existing prototype code for the machine learning algorithm, and planning a strategy for improving the classification results and providing code and scientific robustness.
 
 ## Altered AI - Machine Learning for Audio Morphing - Senior Software Engineer - 2022 to 2023
 
@@ -55,22 +53,20 @@ The morphing tool in action, which is the main feature of the Altered AI Studio 
 
 ![Altered billing 1](./img/al_1.PNG)
 
-What I built:
-
 My contributions to the Altered AI project have been in two main areas: the billing system, and then helping with new features in the web application.
 
-1. I designed and built a customer management portal and payment system to help the company scale-up their product service (SaaS). I rapidly built up this project from scratch in **React** with **Redux** for state management, within a **Typescript** environment running on **Node.js**. The payment system is connected to Chargebee, a third-party system that works with **Stripe**, which is in turn connected to third party payment gateways. I have also been interacting with endpoints and **AWS Lambda** code hosted with **Amazon Web Services** working with a great backend engineer to build this complex system that handles an account database with quota management and an automated third-party payment transaction system.
+I designed and built a customer management portal and payment system to help the company scale-up their product service (SaaS). I rapidly built up this project from scratch in **React** with **Redux** for state management, within a **Typescript** environment running on **Node.js**. The payment system is connected to Chargebee, a third-party system that works with **Stripe**, which is in turn connected to third party payment gateways. I have also been interacting with endpoints and **AWS Lambda** code hosted with **Amazon Web Services** working with a great backend engineer to build this complex system that handles an account database with quota management and an automated third-party payment transaction system.
 
 ![Altered billing 2](./img/al_2.PNG)
 ![Altered billing 3](./img/al_3.PNG)
 
 The billing system that I built for Altered AI is a complex system that handles an account database with quota management and an automated third-party payment transaction system. The system is built using **React**, **Redux**, and **Node.js**, and is connected to a third-party payment gateway.
 
-1. On the main app itself I have worked on adding components to the tools, and controls for third party effects wrappers and other tasks such as import/export of raw data from various file formats, and general maintenance and bug fixing. This application is an **Electron** app with a codebase written mostly in **Typescript**, but was ported to a web browser environment.
+On the main app itself I have worked on adding components to the tools, and controls for third party effects wrappers and other tasks such as import/export of raw data from various file formats, and general maintenance and bug fixing. This application is an **Electron** app with a codebase written mostly in **Typescript**, but was ported to a web browser environment.
 
 ## Freelance - Pocket Monster Prototype - Game Designer/Developer - 2020 to 2022
 
-I attempted making a ‘monster tamer adventure game’ tech demo. The technologies used are **C++19**, Lua**, **OpenGL**, **GLSL** pixel shaders, and a variety of third-party tools for graphic and map design (**Tiled**, **Photoshop\*\*). The goal is a simple code base that requires no additional workload to publish on vastly different target platforms.
+I attempted making a ‘monster tamer adventure game’ tech demo. The technologies used are **C++19**, **Lua**, **OpenGL**, **GLSL** pixel shaders, and a variety of third-party tools for graphic and map design (**Tiled**, \*\*Photoshop\*\*). The goal is a simple code base that requires no additional workload to publish on vastly different target platforms.
 
 ![Daemon Team Six Animation](./img/dts_animation.gif)
 
@@ -88,12 +84,13 @@ Holition is a creative agency that specializes in augmented reality and virtual 
 
 My contributions were three large projects in Augmented Reality:
 
-1. The First project was building an **Electron** desktop application to integrate Holition's beauty simulation toolkit with web technologies for the front-end. **Electron** is a Chromium/Node integrated tool that I had helped join the **JavaScript** (**TypeScript**) web logic with the **C++19** backend of the Augmented reality software.
-   The Charlotte Tilbury Magic Mirror uses the Holition beauty simulation toolkit to allow customers to try on different makeup looks in real-time. The application uses face tracking and augmented reality to overlay virtual makeup onto the customer's face.
+The First project was building an **Electron** desktop application to integrate Holition's beauty simulation toolkit with web technologies for the front-end. **Electron** is a Chromium/Node integrated tool that I had helped join the **TypeScript** web logic with the **C++19** backend of the Augmented reality software.
+
+The Charlotte Tilbury Magic Mirror uses the Holition beauty simulation toolkit to allow customers to try on different makeup looks in real-time. The application uses face tracking and augmented reality to overlay virtual makeup onto the customer's face.
 
 ![Holition Magic Mirror](./img/hol_7.jpg)
 
-1. Next, I led a research project to determine how realistic their foundation make-up simulation algorithm was; and then to design an improved one. For this I predominantly worked in Python for prototyping ideas seen from research papers; and **C++19** for the back-end application in which I created new tools for measuring the accuracy compared to real make-up.
+Next, I led a research project to determine how realistic their foundation make-up simulation algorithm was; and then to design an improved one. For this I predominantly worked in Python for prototyping ideas seen from research papers; and **C++19** for the back-end application in which I created new tools for measuring the accuracy compared to real make-up.
 
 From foundation makeup testing on models, to one simulation of foundation from the renderers, and the simulation accuracy metrics:
 
@@ -102,7 +99,7 @@ From foundation makeup testing on models, to one simulation of foundation from t
 ![Holition Foundation 3](./img/hol_1.png)
 ![Holition Foundation 4](./img/hol_2.png)
 
-1. Finally, I led a research project to create a concept of AR make-up 'tutorials'. This used face tracking in real-time video combined with animations made in **After Effects**. The technologies are the **C++19** backend for the tracker, **Emscripten** to compile the application into **ASM-JS** for web, and typescript for the front end and tools to project the live 2D animations. This tool for example is used by Burberry for their Virtual Studio.
+Finally, I led a research project to create a concept of AR make-up 'tutorials'. This used face tracking in real-time video combined with animations made in **After Effects**. The technologies are the **C++19** backend for the tracker, **Emscripten** to compile the application into **ASM-JS** for web, and typescript for the front end and tools to project the live 2D animations. This tool for example is used by Burberry for their Virtual Studio.
 
 ![Holition AR Tutorials 1](./img/hol_5.jpg)
 
@@ -118,14 +115,16 @@ I created a comparison tool to show the difference between the real makeup (in c
 
 ## Freelance - Dark Wish - Game Designer/Developer - 2016 to 2018
 
-My own self-funded game ‘Dark Wish’ was coded with the OpenGL framework. **LÖVE** released on the **Steam** platform. The code is primarily written in Lua and C++ using the **LÖVE** API to access the **OpenGL** graphics library and **Simple Direct-Media Layer** library. This work involves game design, planning and prototyping, development, testing, audio engineering, and digital artwork creation.
+A game design project that combines my love of video games and my passion for programming.
+
+![Dark Wish 1](./img/dw_1.jpg)
+
+My self-funded game ‘Dark Wish’ was coded with the OpenGL framework. **LÖVE** released on the **Steam** platform. The code is primarily written in Lua and C++ using the **LÖVE** API to access the **OpenGL** graphics library and **Simple Direct-Media Layer** library. This work involves game design, planning and prototyping, development, testing, audio engineering, and digital artwork creation.
+
+![Dark Wish 2](./img/dw_2.jpg)
 
 For this project I mainly follow a Data Oriented Design methodology in this project typically used for high data flow systems such as game engines. However, I created my User Interface system with an Object-Oriented design. I have also been more involved with low-level graphics programming such as **GLSL** pixel-shader programming for visual effects.
 
-I learned a lot from this experience and hope to fill in the gaps in my knowledge (marketing, business management, strategy) and hopefully overcome these difficulties in my next projects.
-
-![Dark Wish 1](./img/dw_1.jpg)
-![Dark Wish 2](./img/dw_2.jpg)
 ![Dark Wish 3](./img/dw_3.jpg)
 ![Dark Wish 4](./img/dw_4.jpg)
 
@@ -183,14 +182,14 @@ I worked in the research & development department, as an image processing engine
 
 ![Sortex Placement 1](./img/bs_os.PNG)
 
-Roughly, 75% of the role was algorithm design and code implementation and testing within the MATLAB programming language. My main tasks were to help develop rapid prototypes to prove/disprove research concepts and help to analyze their effectiveness to improve the technologies of Sortex's current optical sorting machines. Some examples of the projects I worked on are:
+Roughly, 75% of the role was algorithm design and code implementation and testing within the MATLAB programming language. My main tasks were to help develop rapid prototypes to prove/disprove research concepts and help to analyze their effectiveness to improve the technologies of Sortex's current optical sorting machines. Some examples of the projects
 
-1. The Defect Browser was a prototype tool that could simulate the defect detection that the company used in their high performance machines, with a twist. This tool to simulate a variety of parameters and allow the user to manipulate and view the results in real-time.
+The Defect Browser was a prototype tool that could simulate the defect detection that the company used in their high performance machines, with a twist. This tool to simulate a variety of parameters and allow the user to manipulate and view the results in real-time.
 
 ![Sortex Placement 2](./img/bs_defect_browser.png)
 The horizontal line would represent the defect threshold and the operator could adjust this to see how the machine would react to different levels of defects using real data from the machines.
 
-1. The Feed Quality Measurement tool was a prototype tool that could measure the quality of the feed of the machine. Better quality of the feed would be the grains spread out across the chute, worse quality would be the grains clumped together which meant the air-ejectors would fire and hit 'innocent bystander' grains when a defect was detected.
+The Feed Quality Measurement tool was a prototype tool that could measure the quality of the feed of the machine. Better quality of the feed would be the grains spread out across the chute, worse quality would be the grains clumped together which meant the air-ejectors would fire and hit 'innocent bystander' grains when a defect was detected.
 
 A variety of measurements were taken to determine the quality of the feed, and the tool would output a score based on these measurements as the 'clumpyness' metric. The following images are example outputs that show the coverage measurement of the frames of rice, an example threshold set of frames, the distribution of grains across the width of the chute, and the final score of the feed quality measurement.
 
