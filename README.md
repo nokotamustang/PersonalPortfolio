@@ -66,7 +66,7 @@ On the main app itself I have worked on adding components to the tools, and cont
 
 ## Freelance - Pocket Monster Prototype - Game Designer/Developer - 2020 to 2022
 
-I attempted making a ‘monster tamer adventure game’ tech demo. The technologies used are **C++19**, **Lua**, **OpenGL**, **GLSL** pixel shaders, and a variety of third-party tools for graphic and map design (**Tiled**, \*\*Photoshop\*\*). The goal is a simple code base that requires no additional workload to publish on vastly different target platforms.
+I attempted making a ‘monster tamer adventure game’ tech demo. The technologies used are **C++19**, **Lua**, **OpenGL**, **GLSL** pixel shaders, and a variety of third-party tools for graphic and map design (**Tiled**, **Photoshop**). The goal is a simple code base that requires no additional workload to publish on vastly different target platforms.
 
 ![Daemon Team Six Animation](./img/dts_animation.gif)
 
