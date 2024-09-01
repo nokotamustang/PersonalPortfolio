@@ -1,25 +1,19 @@
 `Celebrating 14 years of Software Engineering and Computer Science`
 
-As a life long student of Software Engineering and Computer Science, I have been learning and practicing the art of software development for the past 14 years. I have been working on various projects, both personal and professional, and have gained a lot of experience in the field. I have worked with different programming languages, frameworks, and tools, and have developed a deep understanding of the software development process.
+I'm a life long student of Software Engineering and Computer Science. I have worked on various projects, both personal and professional, and have gained a lot of experience in the field. I have worked with different programming languages, frameworks, and tools, and have developed a deep understanding of the software development process.
 
-In this repository, I have compiled some of my best work from the past 14 years. These projects showcase my skills and expertise in software engineering and computer science. I hope you find them interesting and useful.
-
-Here are some of the projects that I have worked on, most recent first.
+In this repository, I have compiled some of my best work. These projects showcase my skills and expertise in software engineering and computer science.
 
 ## Nokota Mustang - Financial Data and Machine Learning - Freelance - 2024 to ongoing
 
-Currently loving building a Python **Fast API** server running a **MySQL** database of the USA stock market data and other market data, with a **React** / **Node.js** front end.
-
-The data includes market data, company data, and public company stock price data.
+I'm building a Python **Fast API** server running a **MySQL** database of the USA stock market data and other market data, with a **React** / **Node.js** front end.
 
 ![Nokota Mustang 1](./img/nm_1.PNG)
 ![Nokota Mustang 2](./img/nm_3.PNG)
 
-In addition I have been tracking bankruptcy restructuring in North American companies. This includes reading and understand legal document in the Federal Court dockets, and using this information to find patterns in financial fraud. This information could be used to predict future bankruptcies and help investors make better decisions, or to detect fraud and open up early avenues to investigate.
+I have been tracking bankruptcy restructuring in North American companies. This includes reading and understanding legal document in the Federal Court dockets, and using this information to find patterns in financial fraud. This information could be used to predict future bankruptcies and help investors make better decisions, or to detect fraud and open up early avenues to investigate.
 
 ![Nokota Mustang 3](./img/nm_2.PNG)
-
-As I progress I will be using machine learning algorithms to predict future stock prices and company performance based on historical data. I will also be using natural language processing to analyze legal documents and find patterns in financial fraud. With some time and a little more personal funding I wil host this on AWS and use the AWS CDK to build a scalable infrastructure.
 
 ## Route Konnect - Machine Learning Ops Platform in AWS for Vehicle Identification and Tracking - Senior Machine Learning Engineer - 2023 to 2024
 
@@ -64,15 +58,11 @@ The billing system that I built for Altered AI is a complex system that handles 
 
 On the main app itself I have worked on adding components to the tools, and controls for third party effects wrappers and other tasks such as import/export of raw data from various file formats, and general maintenance and bug fixing. This application is an **Electron** app with a codebase written mostly in **Typescript**, but was ported to a web browser environment.
 
-## Freelance - Pocket Monster Prototype - Game Designer/Developer - 2020 to 2022
+## Freelance - Pocket Monster Prototype - Software Engineer - 2020 to 2022
 
 I attempted making a ‘monster tamer adventure game’ tech demo. The technologies used are **C++19**, **Lua**, **OpenGL**, **GLSL** pixel shaders, and a variety of third-party tools for graphic and map design (**Tiled**, **Photoshop**). The goal is a simple code base that requires no additional workload to publish on vastly different target platforms.
 
-![Daemon Team Six Animation](./img/dts_animation.gif)
-
-First prototype of the battle system.
-
-Next is the final prototype which included a fully working User Interface, map system for the player to travel around, and a battle system with a variety of monsters to fight against. The game was designed to be a single player experience
+The final prototype which included a fully working User Interface, map system for the player to travel around, and a battle system with a variety of monsters to fight against. The game was designed to be a single player experience
 
 ![Daemon Team Six 1](./img/dts_3.PNG)
 ![Daemon Team Six 2](./img/dts_4.PNG)
@@ -113,7 +103,7 @@ I created a comparison tool to show the difference between the real makeup (in c
 ![Holition AR Tutorials 4](./img/hol_8.png)
 ![Holition AR Tutorials 5](./img/hol_animation_3.gif)
 
-## Freelance - Dark Wish - Game Designer/Developer - 2016 to 2018
+## Freelance - Dark Wish - Software Engineer - 2016 to 2018
 
 A game design project that combines my love of video games and my passion for programming. This project feature making an engine from scratch, using procedural generation for random levels, and a variety of monsters and bosses to fight against. The game is a 2D action-adventure game with a focus on exploration and combat, with a dark fantasy theme and a story-driven narrative.
 
@@ -124,9 +114,6 @@ My self-funded game ‘Dark Wish’ was coded with the OpenGL framework. **LÖVE
 ![Dark Wish 2](./img/dw_2.jpg)
 
 For this project I mainly follow a Data Oriented Design methodology in this project typically used for high data flow systems such as game engines. However, I created my User Interface system with an Object-Oriented design. I have also been more involved with low-level graphics programming such as **GLSL** pixel-shader programming for visual effects.
-
-![Dark Wish 3](./img/dw_3.jpg)
-![Dark Wish 4](./img/dw_4.jpg)
 
 ## Red Bee Media - AR Sports Graphics for Broadcast TV - Software Engineer - 2013 to 2016
 
