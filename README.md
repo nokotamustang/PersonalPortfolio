@@ -1,8 +1,8 @@
-`Celebrating 14 years of Software Engineering and Computer Science`
+`Celebrating 14 years of Software Engineering and Computer Vision`
 
-I'm a life long student of Software Engineering and Computer Science. I have worked on various projects, both personal and professional, and have gained a lot of experience in the field. I have worked with different programming languages, frameworks, and tools, and have developed a deep understanding of the software development process.
+I have worked on various projects, both personal and professional, and have gained a lot of experience in the field.
 
-In this repository, I have compiled some of my best work. These projects showcase my skills and expertise in software engineering and computer science.
+These projects showcase my skills and expertise in software engineering and computer science.
 
 ## Nokota Mustang - Financial Data and Machine Learning - Freelance - 2024 to ongoing
 
@@ -11,13 +11,13 @@ I'm building a Python **Fast API** server running a **MySQL** database of the US
 ![Nokota Mustang 1](./img/nm_1.PNG)
 ![Nokota Mustang 2](./img/nm_3.PNG)
 
-I have been tracking bankruptcy restructuring in North American companies. This includes reading and understanding legal document in the Federal Court dockets, and using this information to find patterns in financial fraud. This information could be used to predict future bankruptcies and help investors make better decisions, or to detect fraud and open up early avenues to investigate.
+I have been tracking bankruptcy restructuring in North American companies. This includes reading and understanding legal document in the Federal Court dockets, and using this information to find patterns in financial fraud.
 
 ![Nokota Mustang 3](./img/nm_2.PNG)
 
 ## Route Konnect - Machine Learning Ops Platform in AWS for Vehicle Identification and Tracking - Senior Machine Learning Engineer - 2023 to 2024
 
-Route Konnect created a Machine Learning algorithm to produce turning counts, in other words a detailed tally of the categories of vehicles during various blocks of time in the day.
+Route Konnect uses AI to produce turning counts, in other words a detailed tally of the categories of vehicles during various blocks of time in the day.
 
 The platform that I worked on uses a range of Amazon Web Services, including **S3**, **Lambda**, **API Gateway**, **DynamoDB**, **Batch** and **ECS**, and **SageMaker**.
 
@@ -31,7 +31,7 @@ I worked on building the scalable solution for this product, using **AWS Cloud F
 
 ## Altered AI - Machine Learning for Audio Morphing - Senior Software Engineer - 2022 to 2023
 
-Altered AI is a machine learning platform that uses deep learning algorithms to alter audio files. The platform is built using Python, PyTorch, and runs on AWS.
+Altered AI uses deep learning algorithms to alter audio files. The platform is built using Python, PyTorch, and runs on AWS.
 
 ![Altered morphing](./img/al_morph.gif)
 
@@ -50,32 +50,35 @@ I built endpoints and **AWS Lambda** code hosted with **Amazon Web Services** wh
 
 A 'monster tamer adventure' PC game. The technologies used are **C++19**, **OpenGL**, and **GLSL** pixel shaders.
 
+![Daemon Team Six 3](./img/dts_5.PNG)
+
 The final prototype which included a fully working User Interface, map system for the player to travel around, and a battle system with a variety of monsters to fight against.
 
 ![Daemon Team Six 1](./img/dts_3.PNG)
 ![Daemon Team Six 2](./img/dts_4.PNG)
-![Daemon Team Six 3](./img/dts_5.PNG)
 
 ## Holition - Augmented Reality - Senior R&D Computer Engineer - 2018 to 2020
 
-My role at Holition was to work on the development of augmented reality applications for beauty and fashion brands.
+Holition uses Computer Vision to for Augmented Reality applications for beauty and fashion.
 
-I built an **Electron** desktop application to integrate Holition's beauty simulation toolkit with web technologies for the front-end. This used **TypeScript** web logic with the **C++19** backend of the Augmented reality software.
+I built an **Electron** desktop application to integrate simulation toolkit with web technologies for the front-end. This used **TypeScript** web logic with the **C++19** backend of the Augmented reality software.
 
-The Charlotte Tilbury Magic Mirror uses the Holition beauty simulation toolkit to allow customers to try on different makeup looks in real-time. The application uses face tracking and augmented reality to overlay virtual makeup onto the customer's face.
+The Charlotte Tilbury Magic Mirror uses the toolkit to allow customers to try on different makeup looks in real-time. The application uses face tracking and augmented reality to overlay virtual makeup onto the customer's face.
 
 ![Holition Magic Mirror](./img/hol_7.jpg)
 
-I led a research project to determine how realistic their foundation make-up simulation algorithm was; and then to design an improved one. For this I predominantly worked in Python for prototyping ideas seen from research papers; and **C++19** for the back-end application in which I created new tools for measuring the accuracy compared to real make-up.
+I led a research project to determine how realistic their foundation makeup simulation algorithm was; and then to design an improved one. For this I predominantly worked in Python for prototyping ideas seen from research papers; and **C++19** for the back-end application in which I created new tools for measuring the accuracy compared to real makeup.
 
-From foundation makeup testing on real skin, to one simulation of foundation from the renderers, and the simulation accuracy metrics:
 
 ![Holition Foundation 1](./img/hol_6.jpg)
 ![Holition Foundation 2](./img/hol_3.PNG)
+
+From foundation makeup testing on real skin, to one simulation of foundation from the renderers, and the simulation accuracy metrics:
+
 ![Holition Foundation 3](./img/hol_1.png)
 ![Holition Foundation 4](./img/hol_2.png)
 
-I led a research project to create a concept of AR make-up 'tutorials'. This used face tracking in real-time video combined with animations made in **After Effects**. The technologies are the **C++19** backend for the tracker, **Emscripten** to compile the application into **ASM-JS** for web, and **Typescript** for the front end and tools to render the real-time animations. This tool for example is used by Burberry for their Virtual Studio.
+I led a research project to create a concept of AR makeup tutorials. This used face tracking in real-time video combined with animations made in **After Effects**. The technologies are the **C++19** backend for the tracker, **Emscripten** to compile the application into **ASM-JS** for web, and **Typescript** for the front end and tools to render the real-time animations. This tool for example is used by Burberry for their Virtual Studio.
 
 ![Holition AR Tutorials 1](./img/hol_5.jpg)
 
@@ -91,7 +94,7 @@ I created a comparison tool to show the difference between the real makeup (in c
 
 ## Freelance - Dark Wish - Software Engineer - 2016 to 2018
 
-PC game ‘Dark Wish’ was coded with the OpenGL framework. The code is primarily written in C++ using the **OpenGL** for graphics rendering.
+PC game ‘Dark Wish’ was primarily written in **C++** using the **OpenGL** for graphics rendering.
 
 ![Dark Wish 1](./img/dw_1.jpg)
 
@@ -119,9 +122,9 @@ We expanded the Piero software to work with **Opta** data, allowing even more us
 
 Another project was integrating the **EA Sports** rendering engine into **Piero**, which allowed for more realistic graphics presentation for the 3D stadium and players models. This was a complex project that required a lot of work to integrate the two systems and make them work together seamlessly.
 
-## Buhler Sortex - PhD Student in Machine Vision - 2009 to 2013
+## Buhler Sortex - PhD Student in Computer Vision - 2009 to 2013
 
-I led a Machine Vision project for the measurement of granular organic matter in an on-line environment. The major hurdle was to measure the percentage of broken rice in a stream of rice grains. The system had to be able to measure the size of the grains, the color of the grains, and the shape of the grains. The system had to be able to do this in real-time, as the grains were moving down a conveyor belt at a high speed.
+I led a Computer Vision project for the measurement of granular organic matter in an on-line environment. The major hurdle was to measure the percentage of broken rice in a stream of rice grains. The system had to be able to measure the size of the grains, the color of the grains, and the shape of the grains. The system had to be able to do this in real-time, as the grains were moving down a conveyor belt at a high speed.
 
 ![Sortex PhD Thesis 1](./img/bs_1.PNG)
 
