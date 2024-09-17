@@ -15,7 +15,7 @@ I have been tracking bankruptcy restructuring in North American companies. This 
 
 ![Nokota Mustang 3](./img/nm_2.PNG)
 
-## Machine Learning Ops Platform in AWS for Vehicle Identification and Tracking - 2023 to 2024
+## Machine Learning Ops Platform in AWS for Vehicle Identification and Tracking - 2023
 
 This application uses AI to produce turning counts, in other words a detailed tally of the categories of vehicles during various blocks of time in the day.
 
@@ -29,7 +29,7 @@ The 'digital twin' output of the tool recreates the vehicle movement in a 3D spa
 
 I worked on building the scalable solution for this product, using **AWS Cloud Formation** with **Cloud Development Kit** (CDK) to build a scripted architecture for the pipeline.
 
-## Account and Billing System + Application For Audio Morphing - 2022 to 2023
+## Account and Billing System + Application For Audio Morphing - 2022
 
 This application uses deep learning algorithms to alter audio files. The platform is built using Python, PyTorch, and runs on AWS.
 
@@ -45,7 +45,7 @@ I built endpoints and **AWS Lambda** code hosted with **Amazon Web Services** wh
 
 ![Billing 3](./img/al_3.PNG)
 
-## 2D Graphics Game Engine - 2020 to 2022
+## 2D Graphics Game Engine - 2020 to 22
 
 A 'monster tamer adventure' PC game. The technologies used are **C++19**, **OpenGL**, and **GLSL** pixel shaders.
 
@@ -55,7 +55,7 @@ The final prototype which included a fully working User Interface, map system fo
 
 ![Daemon Team Six 1](./img/dts_3.PNG)
 
-## Augmented Reality for Beauty - 2018 to 2020
+## Augmented Reality For Beauty - 2018 to 20
 
 These projects are Computer Vision and Augmented Reality applications for beauty and fashion.
 
@@ -88,7 +88,7 @@ I created a comparison tool to show the difference between the real makeup (in c
 ![AR Tutorials 4](./img/hol_8.png)
 ![AR Tutorials 5](./img/hol_animation_3.gif)
 
-## 2D Graphics Game and Engine - 2016 to 2018
+## 2D Graphics Game and Engine - 2016 to 18
 
 This PC game was primarily written in **C++** using the **OpenGL** for graphics rendering.
 
@@ -98,7 +98,7 @@ This project used procedural generation for random levels, and a variety of mons
 
 ![DW 2](./img/dw_2.jpg)
 
-## AR Sports Graphics for Broadcast TV - 2013 to 2016
+## AR Sports Graphics for Broadcast TV - 2013 to 16
 
 I worked on the **Piero** project which is software used to generate real time augmented reality video with **Java** and **C++**, using **OpenGL** for 3D graphics creation.
 
@@ -118,7 +118,7 @@ We expanded the Piero software to work with **Opta** data, allowing even more us
 
 Another project was integrating the **EA Sports** rendering engine into **Piero**, which allowed for more realistic graphics presentation for the 3D stadium and players models. This was a complex project that required a lot of work to integrate the two systems and make them work together seamlessly.
 
-## PhD Student in Computer Vision - 2009 to 2013
+## PhD Student in Computer Vision - 2009 to 13
 
 I led a Computer Vision project for the measurement of granular organic matter in an on-line environment. The major hurdle was to measure the percentage of broken rice in a stream of rice grains. The system had to be able to measure the size of the grains, the color of the grains, and the shape of the grains. The system had to be able to do this in real-time, as the grains were moving down a conveyor belt at a high speed.
 
@@ -134,13 +134,13 @@ Following with the task to measure the length of rice as it freely moves in a st
 
 The system was able to measure the percentage of broken rice from 25,000 grains in a moving stream within 5 minutes. Evaluation of a series of 12 measurements of 25,000 rice grains each experiment, repeated with two varieties of rice. Observations were made of a mean error of broken rice estimation without correction factor applied is 0.12%, and with correction factor applied is -0.57%.
 
-## Computer Vision for Object Separation of Grains - 2008 to 2009
+## Computer Vision for Object Separation of Grains - 2008 to 09
 
 I completed a one-year research project on ‘Separation of Touching Objects’ in an image, and then produced a solution to the problem for organic matter such as touching rice grains.
 
 ![Object Separation](./img/bs_os2.PNG)
 
-## Computer Vision for Food Optical Sorting - 2007 to 2008
+## Computer Vision for Food Optical Sorting - 2007 to 08
 
 I worked as an image processing engineer to advance the technology of optical sorting machines for food.
 
