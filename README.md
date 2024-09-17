@@ -43,7 +43,6 @@ I designed and built a customer management portal and payment system to help the
 
 I built endpoints and **AWS Lambda** code hosted with **Amazon Web Services** while working with the back end engineers.
 
-![Billing 2](./img/al_2.PNG)
 ![Billing 3](./img/al_3.PNG)
 
 ## 2D Graphics Game Engine - 2020 to 2022
@@ -55,7 +54,6 @@ A 'monster tamer adventure' PC game. The technologies used are **C++19**, **Open
 The final prototype which included a fully working User Interface, map system for the player to travel around, and a battle system with a variety of monsters to fight against.
 
 ![Daemon Team Six 1](./img/dts_3.PNG)
-![Daemon Team Six 2](./img/dts_4.PNG)
 
 ## Augmented Reality for Beauty - 2018 to 2020
 
