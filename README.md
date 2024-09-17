@@ -67,7 +67,6 @@ The Charlotte Tilbury Magic Mirror uses the toolkit to allow customers to try on
 
 I led a research project to determine how realistic their foundation makeup simulation algorithm was; and then to design an improved one. For this I predominantly worked in Python for prototyping ideas seen from research papers; and **C++19** for the back-end application in which I created new tools for measuring the accuracy compared to real makeup.
 
-![Foundation 1](./img/hol_6.jpg)
 ![Foundation 2](./img/hol_3.PNG)
 
 From foundation makeup testing on real skin, to one simulation of foundation from the renderers, and the simulation accuracy metrics:
