@@ -85,7 +85,7 @@ From first prototype of my work with another Senior Engineer, to the production 
 
 I created a comparison tool to show the difference between the real makeup (in controlled lighting) to the simulation makeup. This tool was used to help improve the accuracy of the simulation algorithm by providing a quantitative measure of the difference between the two.
 
-![AR Tutorials 4](./img/hol_8.png)
+![AR Tutorials 4](./img/hol_8.PNG)
 ![AR Tutorials 5](./img/hol_animation_3.gif)
 
 ## 2D Graphics Game and Engine - 2016 to 18
