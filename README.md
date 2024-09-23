@@ -4,9 +4,9 @@ I have worked on various projects, both personal and professional, and have gain
 
 These projects showcase my skills and expertise in software engineering and computer science.
 
-## Financial Data and Machine Learning - 2024 to ongoing
+## Financial Data and Documents - 2024 to ongoing
 
-I'm building a Python **Fast API** server running a **MySQL** database of the USA stock market data and other market data, with a **React** / **Node.js** front end.
+I have built a Python **Fast API** server running a **MySQL** database of the USA stock market data and other market data, with a **React** / **Node.js** front end.
 
 ![Nokota Mustang 1](./img/nm_1.PNG)
 ![Nokota Mustang 2](./img/nm_3.PNG)
@@ -15,7 +15,7 @@ I have been tracking bankruptcy restructuring in North American companies. This 
 
 ![Nokota Mustang 3](./img/nm_2.PNG)
 
-## Machine Learning Ops Platform in AWS for Vehicle Identification and Tracking - 2023
+## Machine Learning Ops in AWS for Vehicle Movement - 2023
 
 This application uses AI to produce turning counts, in other words a detailed tally of the categories of vehicles during various blocks of time in the day.
 
