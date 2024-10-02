@@ -4,18 +4,44 @@ I have worked on various projects, both personal and professional, and have gain
 
 These projects showcase my skills and expertise in software engineering and computer science.
 
-## Financial Data and Documents - 2024 to ongoing
+## 3D graphics rendering engines - 2024 ongoing
 
-I have built a Python **Fast API** server running a **MySQL** database of the USA stock market data and other market data, with a **React** / **Node.js** front end.
+I am working on **Python** 3D graphics rendering engines for real-time applications. The engines are built from scratching with the **ModernGL** wrapper of **OpenGL** and **GLSL** shaders.
+
+![Nokota Mustang 3](./img/mgl_grass2.PNG)
+
+The series is open source and I am documenting the process of building the engine up piece by piece in my GitHub repository.
+
+This series covers the basics of 3D graphics rendering, including the mathematics behind it, the rendering pipeline, and the implementation of various rendering techniques such as lighting, shadows, and post-processing effects.
+
+![Nokota Mustang 3](./img/mgl_ground3.PNG)
+
+I will be extending the engine to include more advanced features such as physics simulation, animation, and particle systems.
+
+## Machine Learning for financial data - 2024 ongoing
+
+I have built a Python **Fast API** server running a **MySQL** database of public tradable USA securities, general market data.
+
+The front-end app is built in a **React** / **Node.js** custom built and can display complex charts.
+
+![Nokota Mustang 3](./img/nm_2.PNG)
+
+I track various data sources around the stock tickers, such as the Failures-To-Deliver, and can produce many technical indicators of the trading prices. 
+ 
+![Nokota Mustang 3](./img/nm_4.PNG)
+
+I have been tracking bankruptcy restructuring in North American companies. This includes reading and understanding legal document in the Federal Court dockets, and using this information to find patterns in financial fraud.
+
+![Nokota Mustang 3](./img/nm_5.PNG)
+
+I am designing a Machine Learning model to detect potential fraud in financial data, and to detect forced bankruptcy restructuring in companies.
+
+I also track the weather and the Buffett Indicator to see if there are any correlations with the stock market.
 
 ![Nokota Mustang 1](./img/nm_1.PNG)
 ![Nokota Mustang 2](./img/nm_3.PNG)
 
-I have been tracking bankruptcy restructuring in North American companies. This includes reading and understanding legal document in the Federal Court dockets, and using this information to find patterns in financial fraud.
-
-![Nokota Mustang 3](./img/nm_2.PNG)
-
-## Machine Learning Ops in AWS for Vehicle Movement - 2023
+## Machine Learning for tracking vehicles - 2023
 
 This application uses AI to produce turning counts, in other words a detailed tally of the categories of vehicles during various blocks of time in the day.
 
@@ -29,7 +55,7 @@ The 'digital twin' output of the tool recreates the vehicle movement in a 3D spa
 
 I worked on building the scalable solution for this product, using **AWS Cloud Formation** with **Cloud Development Kit** (CDK) to build a scripted architecture for the pipeline.
 
-## Account and Billing System + Application For Audio Morphing - 2022
+## Account and billing system - 2022
 
 This application uses deep learning algorithms to alter audio files. The platform is built using Python, PyTorch, and runs on AWS.
 
@@ -45,7 +71,7 @@ I built endpoints and **AWS Lambda** code hosted with **Amazon Web Services** wh
 
 ![Billing 3](./img/al_3.PNG)
 
-## 2D Graphics Game Engine - 2020 to 22
+## 2D graphics game engine - 2020
 
 A 'monster tamer adventure' PC game. The technologies used are **C++19**, **OpenGL**, and **GLSL** pixel shaders.
 
@@ -55,9 +81,7 @@ The final prototype which included a fully working User Interface, map system fo
 
 ![Daemon Team Six 1](./img/dts_3.PNG)
 
-## Augmented Reality For Beauty - 2018 to 20
-
-These projects are Computer Vision and Augmented Reality applications for beauty and fashion.
+## Augmented reality for beauty - 2018
 
 I built an **Electron** desktop application to integrate simulation toolkit with web technologies for the front-end. This used **TypeScript** web logic with the **C++19** backend of the Augmented reality software.
 
@@ -88,7 +112,7 @@ I created a comparison tool to show the difference between the real makeup (in c
 ![AR Tutorials 4](./img/hol_8.PNG)
 ![AR Tutorials 5](./img/hol_animation_3.gif)
 
-## 2D Graphics Game and Engine - 2016 to 18
+## 2D graphics game engine - 2016
 
 This PC game was primarily written in **C++** using the **OpenGL** for graphics rendering.
 
@@ -98,7 +122,7 @@ This project used procedural generation for random levels, and a variety of mons
 
 ![DW 2](./img/dw_2.jpg)
 
-## AR Sports Graphics for Broadcast TV - 2013 to 16
+## Augmented reality for sports broadcast - 2013
 
 I worked on the **Piero** project which is software used to generate real time augmented reality video with **Java** and **C++**, using **OpenGL** for 3D graphics creation.
 
@@ -118,7 +142,7 @@ We expanded the Piero software to work with **Opta** data, allowing even more us
 
 Another project was integrating the **EA Sports** rendering engine into **Piero**, which allowed for more realistic graphics presentation for the 3D stadium and players models. This was a complex project that required a lot of work to integrate the two systems and make them work together seamlessly.
 
-## PhD Student in Computer Vision - 2009 to 13
+## PhD thesis in computer vision - 2009
 
 I led a Computer Vision project for the measurement of granular organic matter in an on-line environment. The major hurdle was to measure the percentage of broken rice in a stream of rice grains. The system had to be able to measure the size of the grains, the color of the grains, and the shape of the grains. The system had to be able to do this in real-time, as the grains were moving down a conveyor belt at a high speed.
 
@@ -134,13 +158,13 @@ Following with the task to measure the length of rice as it freely moves in a st
 
 The system was able to measure the percentage of broken rice from 25,000 grains in a moving stream within 5 minutes. Evaluation of a series of 12 measurements of 25,000 rice grains each experiment, repeated with two varieties of rice. Observations were made of a mean error of broken rice estimation without correction factor applied is 0.12%, and with correction factor applied is -0.57%.
 
-## Computer Vision for Object Separation of Grains - 2008 to 09
+## Computer vision for object separation of grains - 2008
 
 I completed a one-year research project on ‘Separation of Touching Objects’ in an image, and then produced a solution to the problem for organic matter such as touching rice grains.
 
 ![Object Separation](./img/bs_os2.PNG)
 
-## Computer Vision for Food Optical Sorting - 2007 to 08
+## Computer vision for food optical sorting - 2007
 
 I worked as an image processing engineer to advance the technology of optical sorting machines for food.
 
@@ -155,8 +179,6 @@ The Feed Quality Measurement tool was a prototype tool that could measure the qu
 
 A variety of measurements were taken to determine the quality of the feed, and the tool would output a score based on these measurements as the 'clumpyness' metric. The following images are example outputs that show the coverage measurement of the frames of rice, an example threshold set of frames, the distribution of grains across the width of the chute, and the final score of the feed quality measurement.
 
-![Placement 3](./img/bs_fqm_1.png)
-![Placement 4](./img/bs_fqm_2.png)
 ![Placement 5](./img/bs_fqm_3.png)
 ![Placement 6](./img/bs_fqm_4.png)
 
