@@ -4,23 +4,7 @@ I have worked on various projects, both personal and professional, and have gain
 
 These projects showcase my skills and expertise in software engineering and computer science.
 
-## 3D graphics rendering engines - 2024 ongoing
-
-I am working on **Python** 3D graphics rendering engines for real-time applications. The engines are built from scratching with the **ModernGL** wrapper of **OpenGL** and **GLSL** shaders.
-
-![Nokota Mustang 3](./img/mgl_grass2.PNG)
-
-The series is open source and I am documenting the process of building the engine up piece by piece in one of my [GitHub repositories](https://github.com/nokotamustang/Python3DEngines).
-
-This series covers the basics of 3D graphics rendering, including the mathematics behind it, the rendering pipeline, and the implementation of various rendering techniques such as lighting, shadows, and post-processing effects.
-
-![Nokota Mustang 3](./img/mgl_ground3.PNG)
-
-I will be extending the engine to include more advanced features such as physics simulation, animation, and particle systems.
-
-I will also explore the **Vulkan** API and compare it to **OpenGL**, specifically in Visual Studio 2022, to see which one is better suited for real-time applications. This is a longer-term project that will be open source and available on one of my [Github repositories](https://github.com/nokotamustang/Vulkan3DEngines).
-
-## Machine Learning for financial data - 2024 ongoing
+## Big data and Machine Learning in finance - 2024 ongoing
 
 I have built a Python **Fast API** server running a **MySQL** database of public tradable USA securities, general market data.
 
@@ -42,6 +26,22 @@ I also track the weather and the Buffett Indicator to see if there are any corre
 
 ![Nokota Mustang 1](./img/nm_1.PNG)
 ![Nokota Mustang 2](./img/nm_3.PNG)
+
+## 3D graphics rendering engines - 2024 ongoing
+
+I am working on **Python** 3D graphics rendering engines for real-time applications. The engines are built from scratching with the **ModernGL** wrapper of **OpenGL** and **GLSL** shaders.
+
+![Nokota Mustang 3](./img/mgl_grass2.PNG)
+
+The series is open source and I am documenting the process of building the engine up piece by piece in one of my [GitHub repositories](https://github.com/nokotamustang/Python3DEngines).
+
+This series covers the basics of 3D graphics rendering, including the mathematics behind it, the rendering pipeline, and the implementation of various rendering techniques such as lighting, shadows, and post-processing effects.
+
+![Nokota Mustang 3](./img/mgl_ground3.PNG)
+
+I will be extending the engine to include more advanced features such as physics simulation, animation, and particle systems.
+
+I will also explore the **Vulkan** API and compare it to **OpenGL**, specifically in Visual Studio 2022, to see which one is better suited for real-time applications. This is a longer-term project that will be open source and available on one of my [Github repositories](https://github.com/nokotamustang/Vulkan3DEngines).
 
 ## Machine Learning for tracking vehicles - 2023
 
