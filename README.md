@@ -4,7 +4,7 @@ I have worked on various projects, both personal and professional, and have gain
 
 These projects showcase my skills and expertise in software engineering and computer science.
 
-## Big data and Machine Learning in finance - 2024 ongoing
+## Big data for detecting fraud in finance
 
 I have built a Python **Fast API** server running a **MySQL** database of public tradable USA securities, general market data.
 
@@ -27,7 +27,7 @@ I also track the weather and the Buffett Indicator to see if there are any corre
 ![Nokota Mustang 1](./img/nm_1.PNG)
 ![Nokota Mustang 2](./img/nm_3.PNG)
 
-## 3D graphics rendering engines - 2024 ongoing
+## 3D graphics rendering engines
 
 I am working on **Python** 3D graphics rendering engines for real-time applications. The engines are built from scratching with the **ModernGL** wrapper of **OpenGL** and **GLSL** shaders.
 
@@ -43,7 +43,7 @@ I will be extending the engine to include more advanced features such as physics
 
 I will also explore the **Vulkan** API and compare it to **OpenGL**, specifically in Visual Studio 2022, to see which one is better suited for real-time applications. This is a longer-term project that will be open source and available on one of my [Github repositories](https://github.com/nokotamustang/Vulkan3DEngines).
 
-## Machine Learning for tracking vehicles - 2023
+## Machine Learning for tracking vehicles
 
 This application uses AI to produce turning counts, in other words a detailed tally of the categories of vehicles during various blocks of time in the day.
 
@@ -57,7 +57,7 @@ The 'digital twin' output of the tool recreates the vehicle movement in a 3D spa
 
 I worked on building the scalable solution for this product, using **AWS Cloud Formation** with **Cloud Development Kit** (CDK) to build a scripted architecture for the pipeline.
 
-## Account and billing system - 2022
+## SaaS account and billing system
 
 This application uses deep learning algorithms to alter audio files. The platform is built using Python, PyTorch, and runs on AWS.
 
@@ -73,7 +73,7 @@ I built endpoints and **AWS Lambda** code hosted with **Amazon Web Services** wh
 
 ![Billing 3](./img/al_3.PNG)
 
-## 2D graphics game engine - 2020
+## 2D graphics game engine for PC and Steam Deck
 
 A 'monster tamer adventure' PC game. The technologies used are **C++19**, **OpenGL**, and **GLSL** pixel shaders.
 
@@ -83,7 +83,7 @@ The final prototype which included a fully working User Interface, map system fo
 
 ![Daemon Team Six 1](./img/dts_3.PNG)
 
-## Augmented reality for beauty - 2018
+## Augmented reality for beauty
 
 I built an **Electron** desktop application to integrate simulation toolkit with web technologies for the front-end. This used **TypeScript** web logic with the **C++19** backend of the Augmented reality software.
 
@@ -114,7 +114,7 @@ I created a comparison tool to show the difference between the real makeup (in c
 ![AR Tutorials 4](./img/hol_8.PNG)
 ![AR Tutorials 5](./img/hol_animation_3.gif)
 
-## 2D graphics game engine - 2016
+## 2D graphics game engine for PC
 
 This PC game was primarily written in **C++** using the **OpenGL** for graphics rendering.
 
@@ -124,7 +124,7 @@ This project used procedural generation for random levels, and a variety of mons
 
 ![DW 2](./img/dw_2.jpg)
 
-## Augmented reality for sports broadcast - 2013
+## Augmented reality for sports broadcast
 
 I worked on the **Piero** project which is software used to generate real time augmented reality video with **Java** and **C++**, using **OpenGL** for 3D graphics creation.
 
@@ -144,7 +144,7 @@ We expanded the Piero software to work with **Opta** data, allowing even more us
 
 Another project was integrating the **EA Sports** rendering engine into **Piero**, which allowed for more realistic graphics presentation for the 3D stadium and players models. This was a complex project that required a lot of work to integrate the two systems and make them work together seamlessly.
 
-## PhD thesis in computer vision - 2009
+## PhD thesis in computer vision
 
 I led a Computer Vision project for the measurement of granular organic matter in an on-line environment. The major hurdle was to measure the percentage of broken rice in a stream of rice grains. The system had to be able to measure the size of the grains, the color of the grains, and the shape of the grains. The system had to be able to do this in real-time, as the grains were moving down a conveyor belt at a high speed.
 
@@ -160,13 +160,13 @@ Following with the task to measure the length of rice as it freely moves in a st
 
 The system was able to measure the percentage of broken rice from 25,000 grains in a moving stream within 5 minutes. Evaluation of a series of 12 measurements of 25,000 rice grains each experiment, repeated with two varieties of rice. Observations were made of a mean error of broken rice estimation without correction factor applied is 0.12%, and with correction factor applied is -0.57%.
 
-## Computer vision for object separation of grains - 2008
+## Computer vision for object separation of grains
 
 I completed a one-year research project on ‘Separation of Touching Objects’ in an image, and then produced a solution to the problem for organic matter such as touching rice grains.
 
 ![Object Separation](./img/bs_os2.PNG)
 
-## Computer vision for food optical sorting - 2007
+## Computer vision for food optical sorting
 
 I worked as an image processing engineer to advance the technology of optical sorting machines for food.
 
