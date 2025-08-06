@@ -6,7 +6,7 @@ These projects showcase my skills and expertise in software engineering and comp
 
 ## Stable diffusion generative image generation
 
-Learning generative image creation with stable diffusion, in Comfy UI, with a focus on checkpoint merging, LORA integration, and advanced workflow concepts such as control-nets and upscaling.
+Learning generative image creation with stable diffusion with a focus on checkpoint merging, LORA integration, and advanced workflow concepts such as control-nets and upscaling.
 
 ![Nokota Mustang 3](./img/concept_50.png)
 _The first batch is a set of final outputs is a set of pilot body shots for 6 different factions in a sci-fi setting. The full set actually has 4 alien type factions, and 12 humanoid based races, and male and female for each. This output is concept but copyright protected as it will hopefully feature in something larger._
