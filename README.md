@@ -9,7 +9,7 @@ These projects showcase my skills and expertise in software engineering and comp
 Learning generative image creation with stable diffusion with a focus on checkpoint merging, LORA integration, and advanced workflow concepts such as control-nets and upscaling.
 
 ![Nokota Mustang 3](./img/concept_50.png)
-_The first batch is a set of final outputs is a set of pilot body shots for 6 different factions in a sci-fi setting. The full set actually has 4 alien type factions, and 12 humanoid based races, and male and female for each. This output is concept but copyright protected as it will hopefully feature in something larger._
+_The first batch is a set of final outputs is a set of pilot body shots for 5 different factions in a sci-fi setting. The full set actually has 4 alien type factions, and 12 humanoid based races, and male and female for each. This output is concept but copyright protected as it will hopefully feature in something larger._
 
 The tricky part amongst all the front loading of new concepts, to me, and building workflows... is getting the components and tools to be consistent. This has been very eye opening for me.
 
