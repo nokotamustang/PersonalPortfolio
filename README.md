@@ -1,4 +1,4 @@
-`Celebrating 16 years of research & development, deep tech, and software engineering.`
+`Celebrating 16 years of research & development, deep tech, and software engineering. - Dr. Charles Mallah.`
 
 I have worked on various projects, both personal and professional, and have gained a lot of experience in the field.
 
