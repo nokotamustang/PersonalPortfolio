@@ -62,13 +62,9 @@ On the main app itself I have worked on adding components to the tools, and cont
 
 I built an **Electron** desktop application to integrate simulation toolkit with web technologies for the front-end. This used **TypeScript** web logic with the **C++19** backend of the Augmented reality software.
 
-![Magic Mirror](./img/hol_1.jpg)
-_The Charlotte Tilbury Magic Mirror uses the toolkit to allow customers to try on different makeup looks in real-time. The application uses face tracking and augmented reality to overlay virtual makeup onto the customer's face._
-
 I led a research project to determine how realistic their foundation makeup simulation algorithm was; and then to design an improved one. For this I predominantly worked in Python for prototyping ideas seen from research papers; and **C++19** for the back-end application in which I created new tools for measuring the accuracy compared to real makeup.
 
 ![Foundation 2](./img/hol_3.png)
-![Foundation 3](./img/hol_1.png)
 ![Foundation 4](./img/hol_2.png)
 _From foundation makeup testing on real skin, to one simulation of foundation from the renderers, and the simulation accuracy metrics._
 
