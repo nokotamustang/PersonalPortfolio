@@ -2,8 +2,6 @@
 
 I have worked on various projects, both personal and professional, and have gained a lot of experience in the field.
 
-These projects showcase my skills and expertise in software engineering and computer science.
-
 ## Stable diffusion generative image generation
 
 Learning generative image creation with stable diffusion with a focus on checkpoint merging, LORA integration, and advanced workflow concepts such as control-nets and upscaling.
