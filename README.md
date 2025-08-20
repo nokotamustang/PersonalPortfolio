@@ -1,7 +1,5 @@
 `Celebrating 16 years of research & development, deep tech, and software engineering. - Dr. Charles Mallah.`
 
-I have worked on various projects, both personal and professional, and have gained a lot of experience in the field.
-
 ## Stable diffusion generative image generation
 
 Learning generative image creation with stable diffusion with a focus on checkpoint merging, LORA integration, and advanced workflow concepts such as control-nets and upscaling.
@@ -23,7 +21,7 @@ Something to note: this was over 1 months work, and I think it's not a simple as
 
 I am working on **OpenGL** and **Vulkan** 3D graphics rendering for real-time applications.
 
-I have explored code implementation in both **Python** and **C++**. The python projects use ModernGL wrapper of OpenGL. I also have work with a C++20 version, for both OpenGL and Vulkan APIs as well as using _CMake_, _GNU Compilers_, _GLFW_, and _GLM_ libraries.
+I have coded with both **Python** and **C++**. The python projects use ModernGL, a wrapper of OpenGL. The C++20 version uses both OpenGL and Vulkan APIs with _CMake_, _GNU Compilers_, _GLFW_, and _GLM_ libraries.
 
 ![Nokota Mustang 3](./img/mgl.png)
 ![Nokota Mustang 3](./img/mgl_cook-torrance_1.png)
@@ -35,11 +33,7 @@ This series covers the basics of 3D graphics rendering, including the mathematic
 
 ## Machine Learning for tracking vehicles
 
-This application uses AI to produce turning counts, in other words a detailed tally of the categories of vehicles during various blocks of time in the day.
-
-The platform that I worked on uses a range of Amazon Web Services, including **S3**, **Lambda**, **API Gateway**, **DynamoDB**, **Batch** and **ECS**, and **SageMaker**.
-
-The First part I worked on uses a variety of Amazon Web Services (AWS) technologies that span across **GPU compute** enabled **EC2** instances; with **Docker** images running via **ECS**; and wrapped inside **AWS Batch** for automated queuing. Everything is designed for scalability.
+This deep learning application produces turning counts, a detailed tally of the vehicles during the day. Using a range of AWS products including **S3**, **Lambda**, **API Gateway**, **DynamoDB**, **Batch** with **ECS**, and **SageMaker**.
 
 ![Animation](./img/rk_animation.gif)
 _The 'digital twin' output of the tool recreates the vehicle movement in a 3D space._
@@ -48,26 +42,24 @@ I worked on building the scalable solution for this product, using **AWS Cloud F
 
 ## SaaS account and billing system
 
-This application uses deep learning algorithms to alter audio files. The platform is built using Python, PyTorch, and runs on AWS.
+This application uses deep learning to alter voice audio. The platform used Python, PyTorch, and runs on AWS.
 
 ![Billing 1](./img/al_1.png)
 _I designed and built a customer management portal and payment system to help the company scale-up their product service (SaaS). The stack was **React** with **Redux**, within a **Typescript** environment running on **Node.js**._
 
-The payment system is connected to Chargebee, a third-party system that works with **Stripe**, which is in turn connected to third party payment gateways.
-
-On the main app itself I have worked on adding components to the tools, and controls for third party effects wrappers and other tasks such as import/export of raw data from various file formats, and general maintenance and bug fixing. This application is an **Electron** app with a codebase written mostly in **Typescript**.
+I designed and built the payment system, connected to Chargebee that works with **Stripe**.
 
 ## Augmented reality for beauty
 
 I built an **Electron** desktop application to integrate simulation toolkit with web technologies for the front-end. This used **TypeScript** web logic with the **C++19** backend of the Augmented reality software.
 
-I led a research project to determine how realistic their foundation makeup simulation algorithm was; and then to design an improved one. For this I predominantly worked in Python for prototyping ideas seen from research papers; and **C++19** for the back-end application in which I created new tools for measuring the accuracy compared to real makeup.
+I led a research project to determine how realistic their foundation makeup simulation algorithm was; and then to design an improved one. For this I worked in Python for prototyping ideas from research papers. For the prototype I used **C++19** in which I created new tools for measuring the accuracy compared to real makeup.
 
 ![Foundation 2](./img/hol_3.png)
 ![Foundation 4](./img/hol_2.png)
 _From foundation makeup testing on real skin, to one simulation of foundation from the renderers, and the simulation accuracy metrics._
 
-I led a research project to create a concept of AR makeup tutorials. This used face tracking in real-time video combined with animations made in **After Effects**. The technologies are the **C++19** backend for the tracker, **Emscripten** to compile the application into **ASM-JS** for web, and **Typescript** for the front end and tools to render the real-time animations. This tool for example is used by Burberry for their Virtual Studio.
+I led a research project to create a concept of AR makeup tutorials. This used face tracking in real-time video combined with animations made in **After Effects**. The technologies are the **C++19** backend for the tracker, **Emscripten** to compile the application into **ASM-JS** for web, and **Typescript** for the front end and tools to render the real-time animations.
 
 ![AR Tutorials 1](./img/hol_2.jpg)
 ![AR Tutorials 3](./img/hol_animation.gif)
@@ -82,7 +74,7 @@ I have built a Python **Fast API** server running a **MySQL** database of public
 ![Nokota Mustang 3](./img/nm_1.png)
 _I track various data sources around the stock tickers, such as the Failures-To-Deliver, and can produce many technical indicators of the trading prices._
 
-I have been tracking bankruptcy restructuring in North American companies. This includes reading and understanding legal document in the Federal Court dockets, and using this information to find patterns in financial fraud.
+I have been tracking bankruptcy restructuring in North American companies. This includes reading and understanding legal documents from Federal Court, and finding patterns in financial fraud.
 
 ## Augmented reality for sports broadcast
 
@@ -92,7 +84,7 @@ I worked on the **Piero** project which is software used to generate real time a
 ![Piero 2](./img/piero_2.png)
 _I had built many effects into the software which can be seen on Sport broadcasts for Tennis, Football, and Rugby._
 
-Part of the challenge was working with 3D graphics and video in real-time, which required a deep understanding of computer graphics and video processing; the real-time rendering has to be ready for the broadcast in less than 4 frames to be broadcast ready.
+Part of the challenge was working with 3D graphics and video in real-time, which required a deep understanding of computer graphics; the real-time rendering had to be ready for broadcast in less than 4 frames.
 
 ## PhD thesis in computer vision
 
@@ -124,13 +116,13 @@ _The Defect Browser was a prototype tool that could simulate the defect detectio
 ![Placement 2](./img/bs_defect_browser.png)
 _The horizontal line would represent the defect threshold and the operator could adjust this to see how the machine would react to different levels of defects using real data from the machines._
 
-The Feed Quality Measurement tool was a prototype tool that could measure the quality of the feed of the machine. Better quality of the feed would be the grains spread out across the chute, worse quality would be the grains clumped together which meant the air-ejectors would fire and hit 'innocent bystander' grains when a defect was detected.
+The Feed Quality Measurement tool was a prototype that could measure the feed of the machine. Better quality of the feed would be the grains spread out across the chute, worse quality would be the grains clumped together which meant the air-ejectors would fire and hit 'innocent bystander' grains when a defect was detected.
 
 ![Placement 5](./img/bs_fqm_1.png)
 ![Placement 6](./img/bs_fqm_2.png)
 _A variety of measurements were taken to determine the quality of the feed, and the tool would output a score based on these measurements as the 'clumpyness' metric. The following images are example outputs that show the coverage measurement of the frames of rice, an example threshold set of frames, the distribution of grains across the width of the chute, and the final score of the feed quality measurement._
 
-This tool allowed the company's mechanical engineers to build a variety of prototype chute designs to improve the feed quality of the machines. They selected a 'chamfered' design that contains numerous steps down the chute which allows the grains to spread out more evenly across the chute every time they bounce down a step. This increased the productivity of one machine by about 200% in final testing.
+This tool allowed the mechanical engineers to build a variety of chute designs to improve the feed quality. They selected a 'chamfered' design that had steps down the chute to allow the grain to spread out every time they bounced down a step. This increased the productivity of one machine by 200% in final testing.
 
 ## 2D graphics game engine for PC
 
