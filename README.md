@@ -29,7 +29,7 @@ _A few examples of advanced concepts that I've built from scratch: Parallax occl
 
 The series is open source and I am documenting the process of building the engine up piece by piece in one of my [GitHub repositories](https://github.com/nokotamustang/OpenGL_and_Vulkan_3D).
 
-This series covers the basics of 3D graphics rendering, including the mathematics behind it, the rendering pipeline, and the implementation of various rendering techniques such as lighting, shadows, and post-processing effects. the goal is to build a complete engine that handles many technical rendering techniques together, including physics simulation and interactive control for games.
+This series covers the basics of 3D graphics rendering, including the mathematics, the rendering pipeline, and the implementation of various rendering techniques such as lighting, shadows, and post-processing effects. My goal is to build a complete engine that handles many technical rendering techniques together with physics simulation.
 
 ## Machine Learning for tracking vehicles
 
